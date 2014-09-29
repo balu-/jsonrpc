@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 	"net/rpc"
-//	"net/rpc/jsonrpc"
-    "github.com/balu-/jsonrpc"
+	"net/rpc/jsonrpc"
+//can be done with  "github.com/balu-/jsonrpc"
 	"time"
 )
 
